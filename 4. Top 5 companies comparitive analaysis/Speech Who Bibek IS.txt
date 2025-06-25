@@ -1,0 +1,1 @@
+Simplify or redesign circular arrangements for better scalability as object count increases, or introduce smart guides to ease layout complexity.
