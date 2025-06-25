@@ -31,7 +31,16 @@ This repository contains the full set of analysis, benchmarking, and strategic r
 
 ---
 
-## 🤝 Acknowledgments
+---
 
-Thanks to the team at **Musimorph** for guidance and collaboration during this internship journey.
+## 🤝 Internship Acknowledgement
+
+This project is part of my ongoing internship at **Musimorph**.
+
+- **Internship Supervisor:** Dirk  
+- **Contact Number:** 0428602208
+- **Email:** info@musimorph.com
+
+Please feel free to contact them for internship verification or project-related inquiries.
+
 
