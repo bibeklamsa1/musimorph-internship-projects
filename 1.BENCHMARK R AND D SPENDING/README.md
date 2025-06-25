@@ -19,9 +19,7 @@ This project benchmarks Musimorph's R&D efforts against the top 1000 global comp
 
 ## 📊 Outcome
 
-Top 5 companies uses 30.01% of their revenue on R & D intensity compared to top 10 it’s 29.27% of their revenue on R & D intensity.
-In Australia ,it’s 6.51% of average of their revenue spend in R & D intensity. 
-We should spend 7.90%-6.51% if we want to be on average R & D spending.
-Countries like US , Japan, and Germany dominate in R&D intensity, driven by strong tech and automotive sectors.
-A positive correlation exists between higher revenue and higher absolute R&D spend, 
-
+![image](https://github.com/user-attachments/assets/1bba0914-ea4d-42ab-b0f7-8488b659c282)<br>
+![image](https://github.com/user-attachments/assets/f158c811-f58e-47cb-8425-8f846802efb9)<br>
+![image](https://github.com/user-attachments/assets/00e34b4e-b62d-4d46-936c-0828d255791b)<br>
+![image](https://github.com/user-attachments/assets/d2f43c33-ec9c-41a8-bc75-bfce901369fa)
