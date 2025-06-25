@@ -71,8 +71,7 @@ The dashboard was built using **Power BI**, combining visual storytelling with i
 ## 🚀 Call to Action
 
 **Want to grow your channel like Musimorph?**  
-Start by analyzing what works best, tailor your content to your audience, and make data-backed decisions. This project is your blueprint for YouTube growth success.
-
+Let's set a mee ting with the internet and content handling team to review and finalize the strategy for gaining more views and subscribers.
 
 ---
 
@@ -92,10 +91,13 @@ Start by analyzing what works best, tailor your content to your audience, and ma
 ---
 
 ## 📂 Repository Structure
-│
+
 │ └── Musimorph_Internship_5.pptx – Internship outcome presentation
+
 │ └── Musimorph_Benchmark_R&D_Team.pptx – Team proposal to benchmark R&D
+
 │ └── Top_1000_R&D_Spending_Companies_2018.xlsx – Benchmark dataset
+
 ├── README.md
 
 
