@@ -8,7 +8,7 @@ This repository contains the full set of analysis, benchmarking, and strategic r
 |---|----------------|---------|
 | 1 | Benchmark R&D Spending | R&D spending comparison using 1000 global companies |
 | 2 | YouTube Content Creators | Analysis of Musimorph's YouTube performance |
-| 3 | Musimorph vs Hydrizon (YouTube) | Comparative analysis with competitor Hydrizon |
+| 3 | Musimorph vs Hydrizon X(Twitter) | Comparative analysis with competitor Hydrizon |
 | 4 | Top 5 Companies Analysis | Comparative benchmarking of top 5 companies |
 | 5 | 2 Companies on YouTube | Comparative study: Musimorph vs Hydrizon |
 | 6 | Website Analysis (Musimorph) | Analysis of Musimorph’s web performance |
