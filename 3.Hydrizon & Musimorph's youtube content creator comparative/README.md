@@ -1,4 +1,4 @@
-# 📊 Hydrizon vs. Musimorph: A Comparative Analysis of Content Growth and Engagement Strategies
+# 📊 Hydrizon vs. Musimorph: A Comparative Analysis of Content Growth and Engagement Strategies On X (Twitter)
 
 This project analyzes and compares the performance of two content brands—Hydrizon and Musimorph—based on social media metrics such as impressions, engagement, likes, retweets, and profile clicks. The goal is to identify which platform drives more views, likes, and followers, and to offer data-driven recommendations for improvement.
 
